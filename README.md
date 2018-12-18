@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About this repo
+This was created for me to learn about react. i am too egoistic to learn from the absolutely wonderful tutorial on the react site.
+I am planning on implementing conway's game on life in react.
+
 ## Available Scripts
 
 In the project directory, you can run:
