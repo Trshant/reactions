@@ -2,7 +2,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## About this repo
 This was created for me to learn about react. i am too egoistic to learn from the absolutely wonderful tutorial on the react site.
-I am planning on implementing conway's game on life in react.
+I am planning on implementing conway's game of life in react.
+
+## 18 JAN 2018
+I understood some of the components and how they interact with each other. 
+TODO: understand state
+TODO: Now things are going from board to squares. i want to introduce board > rows > squares for proper automation.
 
 ## Available Scripts
 
